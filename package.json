@@ -74,7 +74,7 @@
     "rollup-plugin-uglify": "^4.0.0"
   },
   "dependencies": {
-    "react-tree-walker": "^4.2.0"
+    "react-tree-walker": "oyeanuj/react-tree-walker#context-fixes-packaged"
   },
   "jest": {
     "collectCoverageFrom": [
